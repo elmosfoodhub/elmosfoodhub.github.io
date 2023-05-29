@@ -4,7 +4,7 @@
     font-family: 'Encode Sans SC', sans-serif;
 }
 #banner{
-    background:url(wokpics/menu.png.JPG);
+    background:url(./wokpics/menu.png.JPG);
     background-size: cover;
     background-position: center;
     height: 100vh;   
